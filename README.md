@@ -1,4 +1,4 @@
-# PharmaSafe — Hybrid Drug Interaction Recommender
+# Hybrid Drug Interaction Recommender
 
 ## Overview
 
